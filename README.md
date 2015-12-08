@@ -1,3 +1,10 @@
+
+#ATTENTION#
+
+Primary development has moved to the opencog/opencog-to-minecraft repo,
+[here](https://github.com/opencog/opencog-to-minecraft). The code here
+no longer quite works.  Please go there to get the most current version!
+
 #opencog-to-minecraft#
 
 A ROS-based module linking OpenCog and the Minecraft world. This code serves as a starting point for integrating the two environments. The code is in a 'heavy experimentation' phase, and will therefore change drastically over the next couple of months. The steps to set up and run the module are currently rather complicated, but this will change as the code stabilizes.
